@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="white">#fff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Darkgray">#6c6c6c</color>
+    <color name="Vilaocor">#A092BA</color>
+    <color name="EquipaCor">#705D5D</color>
+    <color name="Heroicor">#BE5D888E</color>
+</resources>

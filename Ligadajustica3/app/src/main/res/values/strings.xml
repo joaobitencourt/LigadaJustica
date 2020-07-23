@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Ligadajustica</string>
+
+    <string name="Nome">Nome</string>
+    <string name="Codinome">Codinome</string>
+    <string name="Especie">Especie</string>
+    <string name="Habilidades">Habilidades</string>
+    <string name="Vulnerabilidades">Vulnerabilidades</string>
+    <string name="NívelAcesso">NívelAcesso</string>
+    <string name="Heroisrivais">Herois rivais</string>
+    <string name="Esconderijos">Esconderijos</string>
+    <string name="dataFightConfir">Data da Ultima luta</string>
+    <string name="Nomedoequipamento">Nome</string>
+    <string name="Descrição">Descrição</string>
+    <string name="Usabilidade">Usabilidade</string>
+
+    <string name="heroi">Herói</string>
+    <string name="vilao">Vilão</string>
+    <string name="equipa">Equipamento</string>
+
+    <string name="Home">Home</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="Consultar">Consultar</string>
+
+    <string name="title_CadastroHeroi">Casdastro  Heroi</string>
+    <string name="title_Cadastrovilao">Casdastro  Vilão</string>
+    <string name="title_CadastroEquip">Casdastro  Equipamento</string>
+
+    <string name="title_ConsuHeroi">Consultar  Heroi</string>
+    <string name="title_ConsuVilao">Consultar  Vilão</string>
+    <string name="title_ConsuEquip">Consultar  Equipamento</string>
+
+    <string name="Herois_Cad">Herois Cadastrados:</string>
+    <string name="Vilões_Cad">Vilão Cadastrados:</string>
+    <string name="Equipa_Cad">Equipamento Cadastrados:</string>
+</resources>
